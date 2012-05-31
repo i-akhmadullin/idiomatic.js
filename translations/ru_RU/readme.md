@@ -38,6 +38,7 @@
 * [Korean](https://github.com/rwldrn/idiomatic.js/tree/master/translations/ko_KR)
 * [Japanese](https://github.com/rwldrn/idiomatic.js/tree/master/translations/ja_JP)
 * [Italian](https://github.com/rwldrn/idiomatic.js/tree/master/translations/it_IT)
+* [Russian](https://github.com/i-akhmadullin/idiomatic.js/tree/master/translations/ru_RU)
 
 ## Важное, не касающееся стиля:
 
